@@ -1,0 +1,30 @@
+{
+  "https://sportbet.gr/prognostika-to-dynato-simeio-imeras/|#featured_archive > div.featured-item.active": {
+    "text": "28/07 20:00\nMatch: Τσέλιε - Εγνατία\nPrediction: 1\nOdds: 1.50",
+    "date": "2026-07-28"
+  },
+  "https://www.foxbet.gr/316014/to-stantar-tis-imeras|.prediction-card, .predictions-table-grid": {
+    "text": "28/07 21:45\nMatch: Χαρτς - Στουρμ Γκρατς\nPrediction: Τελικό Αποτέλεσμα - Χαρτς\nOdds: 1.85",
+    "date": "2026-07-28"
+  },
+  "https://www.bethome.gr/prognostika-to-simeio-tis-imeras/|.betting-tips-listing__item, .betting-tips-listing__table": {
+    "text": "27/07 20:00\nMatch: ΡΟΖΕΝΜΠΟΡΓΚ - ΦΡΕΝΤΡΙΚΣΤΑΝΤ\nPrediction: 1 & Under 5.5\nOdds: 1.92",
+    "date": "2026-07-28"
+  },
+  "https://www.kingbet.com.cy/to-dynato-simeio-imeras/|div.betting-features__listing div.betting-feature.block:first-child": {
+    "text": "28/07 21:00\nMatch: Σάμροκ Ρόβερς - Αραράτ-Αρμενία\nPrediction: 1\nΑπόδοση: 1.86",
+    "date": "2026-07-28"
+  },
+  "https://www.kingbet.com.cy/favori-imeras/|div.betting-features__listing div.betting-feature.block:first-child": {
+    "text": "28/07 21:00\nMatch: Ντρίτα - Φλοριάνα\nPrediction: 1\nΑπόδοση: 1.62",
+    "date": "2026-07-28"
+  },
+  "https://www.sentragoal.gr/dunato-simeio-imeras/|div[id^='predictions_'][id$='_page_container'] table tbody tr:nth-child(2)": {
+    "text": "28/07 21:45\nMatch: Χαρτς - Στουρμ Γκρατς\nPrediction: 1\nOdds: 10.00",
+    "date": "2026-07-28"
+  },
+  "https://www.foxbet.gr/316026/to-dunato-simeio-tis-imeras|div.prediction-card__header,div.prediction-card__match-block": {
+    "text": "28/07 22:00\nMatch: Σάμροκ Ρόβερς - Αραράτ Αρμενία\nPrediction: Τελικό Αποτέλεσμα - Σάμροκ Ρόβερς\nOdds: 1.75",
+    "date": "2026-07-28"
+  }
+}

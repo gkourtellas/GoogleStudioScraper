@@ -1,0 +1,7 @@
+https://sportbet.gr/prognostika-to-dynato-simeio-imeras/|static|#featured_archive > div.featured-item.active|20
+https://www.foxbet.gr/316014/to-stantar-tis-imeras|static|.prediction-card, .predictions-table-grid|4
+https://www.bethome.gr/prognostika-to-simeio-tis-imeras/|static|.betting-tips-listing__item, .betting-tips-listing__table|4
+https://www.kingbet.com.cy/to-dynato-simeio-imeras/|static|div.betting-features__listing div.betting-feature.block:first-child|5
+https://www.kingbet.com.cy/favori-imeras/|static|div.betting-features__listing div.betting-feature.block:first-child|5
+https://www.sentragoal.gr/dunato-simeio-imeras/|static|div[id^='predictions_'][id$='_page_container'] table tbody tr:nth-child(2)|8
+https://www.foxbet.gr/316026/to-dunato-simeio-tis-imeras|static|div.prediction-card__header,div.prediction-card__match-block|4

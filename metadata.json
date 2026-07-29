@@ -1,0 +1,8 @@
+{
+  "name": "MyWeb Scraper & Server Console",
+  "description": "Unified dashboard for George's Server homepage, Web Scraper status, tips monitor, and bookmarks manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

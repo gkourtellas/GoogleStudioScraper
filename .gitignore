@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+state.json
+tginfo_test.txt
+url_failures.json
+.aider*
+tginfo_prod.txt
+logs/
+.idea/
+.vscode/
+venv/
